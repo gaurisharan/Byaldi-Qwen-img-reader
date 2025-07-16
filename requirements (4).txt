@@ -1,0 +1,8 @@
+gradio
+byaldi
+Pillow
+torch
+torchvision
+transformers
+qwen-vl-utils
+huggingface_hub
